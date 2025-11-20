@@ -192,17 +192,17 @@ The Power BI dashboard consolidates all insights into an interactive stakeholder
 ![Power BI dashboard](images/Customer_behavior_dashboard.PNG)
 
 ### **Dashboard Sections**
-
-✔ **Customer Demographics Overview**
-✔ **Revenue Trends by Gender & Age**
-✔ **Sales by Product Category**
-✔ **Shopping Channel Performance (Online vs Offline)**
-✔ **Impact of Reviews & Ratings**
-✔ **Seasonality & Monthly Purchasing Patterns**
-✔ **Subscription Trends & Renewal Behavior**
-✔ **Discount Sensitivity & Promotional Effects**
-✔ **Top Performing Products & Rankings**
-
+```
+ **Customer Demographics Overview**
+ **Revenue Trends by Gender & Age**
+ **Sales by Product Category**
+ **Shopping Channel Performance (Online vs Offline)**
+ **Impact of Reviews & Ratings**
+ **Seasonality & Monthly Purchasing Patterns**
+ **Subscription Trends & Renewal Behavior**
+ **Discount Sensitivity & Promotional Effects**
+ **Top Performing Products & Rankings**
+```
 ### Key Insights for Management:
 
 * High-value customers are typically **Young Adults**, shopping online more frequently.
