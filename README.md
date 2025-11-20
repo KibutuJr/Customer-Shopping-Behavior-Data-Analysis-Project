@@ -83,7 +83,7 @@ Published all project components in a clean, well-organized structure for profes
 
 End-to-end **Retail Analytics** project analyzing customer shopping behavior using **Python, PostgreSQL/SQL, and Power BI**. Covers data cleaning, feature engineering, transactional analysis, customer segmentation, and interactive dashboards to uncover actionable retail insights.
 
-![Project Architecture](images/Retail_Consumer_Behavior_Analytics_Platform.PNG)
+![Project Architecture](images/Retail_Consumer_Behavior_Analytics_Platform.png)
 
 
 ```
@@ -188,7 +188,7 @@ After loading the cleaned dataset into PostgreSQL, several analytical SQL querie
 # 📊 **3. Visualization & Insights (Power BI Dashboard)**
 
 The Power BI dashboard consolidates all insights into an interactive stakeholder-ready report.
-(see `images/Customer_behavior_dashboard.PNG`)
+
 ![Power BI dashboard](images/Customer_behavior_dashboard.PNG)
 
 ### **Dashboard Sections**
