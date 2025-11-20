@@ -232,6 +232,9 @@ The project includes:
 * Concise recommendations
 * Executive-level storytelling
 
+Check out the full Power Point Presentation Here:  
+[Power Point Project Presentation](https://gamma.app/docs/Customer-Shopping-Behavior-Analysis-lz0q4126l8up4l5)
+
 ---
 
 # 🧩 **5. Business Recommendations**
