@@ -81,7 +81,10 @@ Published all project components in a clean, well-organized structure for profes
 
 # 🧱 **Project Architecture (End-to-End Workflow)**
 
-see : images/Retail_Consumer_Behavior_Analytics_Platform.PNG
+End-to-end **Retail Analytics** project analyzing customer shopping behavior using **Python, PostgreSQL/SQL, and Power BI**. Covers data cleaning, feature engineering, transactional analysis, customer segmentation, and interactive dashboards to uncover actionable retail insights.
+
+![Project Architecture](images/Retail_Consumer_Behavior_Analytics_Platform.PNG)
+
 
 ```
 Raw CSV File
@@ -106,7 +109,7 @@ The data preparation was conducted using **Jupyter Notebook**, focusing on clean
 
 ### 📌 **1. Load Data**
 
-(see `images/load_data.PNG`)
+![Load Data](images/load_data.PNG)
 
 * Read the CSV using pandas
 * Display initial records
@@ -114,7 +117,8 @@ The data preparation was conducted using **Jupyter Notebook**, focusing on clean
 
 ### 📌 **2. Inspect Structure & Summary**
 
-(see `images/data_structure.PNG`, `images/data_summary.PNG`)
+![Inspect Structure](images/data_structure.PNG)
+![Summary](images/data_summary.PNG)
 
 * Check data types
 * Identify categorical vs numerical columns
@@ -122,7 +126,7 @@ The data preparation was conducted using **Jupyter Notebook**, focusing on clean
 
 ### 📌 **3. Null Value Analysis & Handling**
 
-(see `images/null_values.PNG`)
+![Null Values](images/null_values.PNG)
 
 * Identify missing values
 * Drop irrelevant or sparse columns
@@ -132,18 +136,21 @@ The data preparation was conducted using **Jupyter Notebook**, focusing on clean
 ### 📌 **4. Feature Engineering**
 
 * Create **age group** categories
-  (see `images/age_group.PNG`)
-* Compute **purchase frequency (days)**
-  (see `images/purchase_frequency_days.PNG`)
+  ![Age Groups](images/age_group.PNG)
+  
+* Compute **purchase_frequency_days**
+  ![Purchase_Frequency_days](images/purchase_frequency_days.PNG)
+  
 * Standardize review ratings
-  (see `review_rating.PNG`)
-
+![Review Ratings](images/review_rating.PNG)
+  
 ### 📌 **5. Data Export to PostgreSQL**
 
 * Use SQLAlchemy for connection
-  (see `images/sqlalchemy.PNG`)
+  ![SQLAlchemy](images/sqlalchemy.PNG)
+  
 * Push transformed data to PostgreSQL
-  (see `images/PostgreSQL_connect.PNG`)
+  ![PostgreSQL](images/PostgreSQL_connect.PNG)
 
 ---
 
@@ -182,6 +189,7 @@ After loading the cleaned dataset into PostgreSQL, several analytical SQL querie
 
 The Power BI dashboard consolidates all insights into an interactive stakeholder-ready report.
 (see `images/Customer_behavior_dashboard.PNG`)
+![Power BI dashboard](images/Customer_behavior_dashboard.PNG)
 
 ### **Dashboard Sections**
 
