@@ -81,7 +81,7 @@ Published all project components in a clean, well-organized structure for profes
 
 # 🧱 **Project Architecture (End-to-End Workflow)**
 
-(see `images/Retail_Consumer_Behavior_Analytics_Platform.PNG`)
+see : images/Retail_Consumer_Behavior_Analytics_Platform.PNG
 
 ```
 Raw CSV File
